@@ -1,0 +1,285 @@
+@media screen and (max-width: 1248px) {
+  .form-row .input {
+    padding: 13px 15px 13px;
+  }
+  .divide::after {
+    width: 75%;
+  }
+  .payment_method-object {
+    width: calc(40% - 20px);
+  }
+}
+@media screen and (max-width: 1024px) {
+  .s_register_page {
+    width: 100%;
+  }
+  .s_register_page .login-form {
+    margin: 0;
+  }
+  .s_register_page .login-form .h2 {
+    z-index: 10;
+  }
+  .s_register_page .w40 {
+    width: 50%;
+  }
+  .s_register_page .w60 {
+    width: calc(50% - 50px);
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .s_register_page .w60 .register_now_text {
+    width: 100%;
+  }
+  .s_register_page .w60 .advertising_registration {
+    padding: 46px 40px 24px;
+    margin-top: 0;
+  }
+  .advertising_registration {
+    background-size: 45% 100%;
+  }
+  .advertising_registration .text_advert h3 {
+    font-size: 20px;
+    line-height: 125%;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .divide::after {
+    width: 70%;
+  }
+  .divide.small-line::after {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .h2 {
+    font-size: 14px;
+  }
+  .divide.small-line::after {
+    width: 85%;
+  }
+  .form-flex-wrap .right {
+    width: 100%;
+  }
+  .form-row {
+    margin-bottom: 14px;
+  }
+  .form-flex-wrap {
+    display: block;
+  }
+  .form-flex-wrap .left {
+    width: 100%;
+    margin-right: 0;
+  }
+  .divide::after {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .divide::after {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .login-form {
+    width: 100%;
+    margin: 15px 0 50px;
+  }
+  .login-form .form {
+    width: 100%;
+  }
+  .container-form {
+    padding: 30px 15px;
+  }
+  .logo {
+    width: 103px;
+    margin-right: 0;
+    display: block;
+  }
+  .sub-button {
+    padding: 10px 20px;
+  }
+  .divide::after {
+    width: 70%;
+  }
+  .divide.small-line::after {
+    width: 80%;
+  }
+  .s_register_page {
+    display: block;
+  }
+  .s_register_page .w40 {
+    width: 100%;
+  }
+  .s_register_page .w60 {
+    width: 100%;
+  }
+  .s_register_page .login-form-valid .vertical_center {
+    padding: 20px 0 30px;
+  }
+  .s_register_page .login-form-valid .container-form {
+    padding: 20px 15px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .s_register_page .login-form-valid .descr_log {
+    margin: 30px 0;
+  }
+  .login-form .logo {
+    margin: 30px auto 34px;
+  }
+  .login-form .h2::before {
+    width: 35%;
+  }
+  .login-form .h2::after {
+    width: 35%;
+  }
+  .advertising_registration {
+    background-size: 85% 100%;
+  }
+  .create_account.new .form-row .language_preference {
+    width: 100%;
+  }
+  .s_register_page .w40 .form {
+    width: calc(100% + 30px);
+    margin-bottom: 0;
+    margin-left: -15px;
+    border-radius: 0;
+  }
+  .advertising_registration {
+    width: calc(100% + 30px);
+    margin-left: -15px;
+    border-radius: 0;
+    padding: 30px 15px;
+    background-image: url(../img/give_mobile.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 30% 100%;
+  }
+  .advertising_registration .text_advert {
+    padding: 0;
+  }
+  .advertising_registration .text_advert .descr {
+    margin-bottom: 0;
+  }
+  .s_register_page .w60 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 0;
+  }
+  .s_register_page .w60 .register_now_text .descr_registr {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .link-login-form .h3 {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .s_register_page .logo.mobile {
+    width: 100px;
+    display: block;
+    margin: 15px auto 20px;
+  }
+  .login_page_new .logo {
+    display: none;
+  }
+  .s_register_page .w60 .register_now_text ul li {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
+@media screen and (max-width: 650px) {
+  .divide::after {
+    width: 65%;
+  }
+  .divide.small-line::after {
+    width: 75%;
+  }
+}
+@media screen and (max-width: 550px) {
+  .divide::after {
+    width: 60%;
+  }
+  .divide.small-line::after {
+    width: 75%;
+  }
+  .prohibited_items_popup {
+    width: 100%;
+  }
+  .advertising_registration .text_advert h3 {
+    font-size: 20px;
+  }
+  .s_register_page .w60 .advertising_registration {
+    border-top: 1px solid #D8E0EB;
+    border-bottom: 1px solid #D8E0EB;
+    padding: 0;
+  }
+  .s_register_page .w60 .register_now_text {
+    width: 100%;
+    margin: 0;
+  }
+  .s_register_page .login-form-valid .container-form {
+    width: 100%;
+    padding: 30px 15px 0;
+  }
+  .s_register_page .login-form .h2::before {
+    left: 0;
+    width: 40%;
+  }
+  .s_register_page .login-form .h2::after {
+    right: 0;
+    width: 40%;
+  }
+  .s_register_page .login-form-valid .descr_log {
+    margin: 20px 0;
+    font-size: 12px;
+  }
+  .s_register_page .login-form-valid .vertical_center {
+    padding: 20px 0 25px;
+  }
+  .link-login-form {
+    margin-bottom: 20px;
+  }
+  .link-login-form .h3 {
+    display: block;
+    margin-right: 0;
+  }
+  .s_register_page .w60 .register_now_text ul li {
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .advertising_registration .text_advert .descr {
+    font-size: 12px;
+  }
+  .login-form .sub-button {
+    padding: 15px 31px;
+  }
+  .login-form .main-button {
+    padding: 15px 44px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .divide::after {
+    width: 55%;
+  }
+  .advertising_registration {
+    background-size: 40% 100%;
+  }
+}
+@media screen and (max-width: 400px) {
+  .divide::after {
+    width: 50%;
+  }
+  .divide.small-line::after {
+    width: 70%;
+  }
+}
+@media screen and (max-width: 350px) {
+  .divide::after {
+    width: 40%;
+  }
+  .divide.small-line::after {
+    width: 60%;
+  }
+}
