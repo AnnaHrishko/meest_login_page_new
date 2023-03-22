@@ -309,6 +309,21 @@ body {
   margin-left: 15px;
   margin-bottom: 10px;
 }
+.s_register_page .w60 .register_now_text ul li:first-of-type {
+  color: #e60033;
+}
+.s_register_page .w60 .register_now_text ul li:first-of-type:before {
+  content: "";
+  display: block;
+  background-color: #e60033;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -15px;
+}
 .s_register_page .w60 .register_now_text ul li:before {
   content: "";
   display: block;
